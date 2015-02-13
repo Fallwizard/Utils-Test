@@ -1,4 +1,4 @@
-package com.berico.test;
+package io.github.fallwizard.test;
 
 /**
  * Thrown if a required environment property is missing.

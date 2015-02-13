@@ -1,12 +1,10 @@
-package com.berico.test;
+package io.github.fallwizard.test;
 
 import static org.junit.Assert.*;
 
 import org.junit.BeforeClass;
 import org.junit.Rule;
 import org.junit.Test;
-
-import com.berico.test.TestProperties;
 
 /**
  * This demonstrates how to use the TestProperties JUnit Rule.

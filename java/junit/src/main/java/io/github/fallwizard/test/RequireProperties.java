@@ -1,4 +1,4 @@
-package com.berico.test;
+package io.github.fallwizard.test;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
